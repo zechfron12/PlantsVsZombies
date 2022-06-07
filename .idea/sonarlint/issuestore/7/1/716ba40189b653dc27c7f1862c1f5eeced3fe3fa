@@ -1,0 +1,22 @@
+
+^
+java:S1075="ARefactor your code to get this URI from a customizable parameter.(Üî‘Û8¥¡îÏ’0
+W
+java:S1075H"ARefactor your code to get this URI from a customizable parameter.(Á‹µé
+W
+java:S1075Q"ARefactor your code to get this URI from a customizable parameter.(µÒÙ™
+W
+java:S1075Z"ARefactor your code to get this URI from a customizable parameter.(‰È¤Ë
+W
+java:S1075c"ARefactor your code to get this URI from a customizable parameter.(»“ïî
+W
+java:S1075m"ARefactor your code to get this URI from a customizable parameter.(ö÷»º
+u
+java:S2142»"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²•§şÿÿÿÿ
+a
+java:S2184—"ECast one of the operands of this subtraction operation to a "double".(ç¤šçûÿÿÿÿ
+\
+java:S2184˜"ECast one of the operands of this subtraction operation to a "double".(èš÷Ë
+^
+java:S2184µ"BCast one of the operands of this addition operation to a "double".(âŠ¨¸ÿÿÿÿÿ

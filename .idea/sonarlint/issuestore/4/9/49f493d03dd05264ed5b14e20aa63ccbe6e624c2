@@ -1,0 +1,20 @@
+
+S
+java:S2696+"6Make the enclosing method "static" or remove this set.(…äûÇ8¹±Ë’0
+o	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÁ­®ÿÿÿÿÿ8¦¹±Ë’0
+S
+java:S2696~"6Make the enclosing method "static" or remove this set.(Ë®ÌØ8ª¹±Ë’0
+T
+java:S2696…"6Make the enclosing method "static" or remove this set.(ÿÓµ„8«¹±Ë’0
+p
+java:S1192A"NDefine a constant instead of duplicating this literal "GamePlay.fxml" 5 times.(”»øÿÿÿÿ8±¦ÌÏ’0
+r	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ³†¿ûÿÿÿÿ8®¹±Ë’0
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ³†¿ûÿÿÿÿ8¯¹±Ë’0
+r	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ³†¿ûÿÿÿÿ8¯¹±Ë’0
+r	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ³†¿ûÿÿÿÿ8±¹±Ë’0
+r	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ³†¿ûÿÿÿÿ8±¹±Ë’0
+r	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹™Úµıÿÿÿÿ8±¹±Ë’0
+t
+java:S1104"RMake status a static final constant or non-public and provide accessors if needed.(°Ç«ºûÿÿÿÿ8³¹±Ë’0
+N
+java:S1444",Make this "public static status" field final(°Ç«ºûÿÿÿÿ8³¹±Ë’0

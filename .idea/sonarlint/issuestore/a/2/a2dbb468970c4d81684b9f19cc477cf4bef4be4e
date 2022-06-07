@@ -1,0 +1,126 @@
+
+l	java:S116"WRename this field "GamePlayRoot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛ¿ï
+n	java:S116)"TRename this field "lawn_grid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òĞ›Àÿÿÿÿÿ
+K
+java:S2696]"6Make the enclosing method "static" or remove this set.(ûÒ¢=
+;
+java:S2386^"%Make member "allZombies" "protected".(Õ†İ¡
+L
+java:S2696^"6Make the enclosing method "static" or remove this set.(Õ†İ¡
+?
+java:S2386_"$Make member "allPlants" "protected".(œ— «úÿÿÿÿ
+Q
+java:S2696_"6Make the enclosing method "static" or remove this set.(œ— «úÿÿÿÿ
+Q
+java:S2696`"6Make the enclosing method "static" or remove this set.(’È‹øÿÿÿÿ
+Q
+java:S2696e"6Make the enclosing method "static" or remove this set.(Æ‘–êÿÿÿÿÿ
+C
+java:S2386f"-Make member "animationTimelines" "protected".(Şİ¥¾
+L
+java:S2696f"6Make the enclosing method "static" or remove this set.(Şİ¥¾
+<
+java:S2386g"&Make member "zombieList1" "protected".(…Üà
+L
+java:S2696g"6Make the enclosing method "static" or remove this set.(…Üà
+<
+java:S2386h"&Make member "zombieList2" "protected".(çóÇÖ
+L
+java:S2696h"6Make the enclosing method "static" or remove this set.(çóÇÖ
+L
+java:S2696i"6Make the enclosing method "static" or remove this set.(‘´€÷
+L
+java:S2696j"6Make the enclosing method "static" or remove this set.(Ú“ğô
+Q
+java:S2696k"6Make the enclosing method "static" or remove this set.(ìşÑŠÿÿÿÿÿ
+L
+java:S2696l"6Make the enclosing method "static" or remove this set.(ÁÙ­³
+9
+java:S2119o"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(´îÍ—
+R
+java:S2696š"6Make the enclosing method "static" or remove this set.(¨èŒæùÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(¨èŒæùÿÿÿÿ
+a
+java:S3252«"EUse static access with "javafx.animation.Animation" for "INDEFINITE".(“ç¿üÿÿÿÿ
+i	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¨İüÿÿÿÿ
+a
+java:S3252ô"EUse static access with "javafx.animation.Animation" for "INDEFINITE".(ØˆŞ‰øÿÿÿÿ
+R
+java:S2696ö"6Make the enclosing method "static" or remove this set.(¨†‹ùÿÿÿÿ
+3
+java:S6205ü"Remove this redundant block.(ÇÓ„•
+8
+java:S6205ÿ"Remove this redundant block.(ò÷Ñäÿÿÿÿÿ
+8
+java:S6205‚"Remove this redundant block.(€ø¥ÿÿÿÿÿ
+3
+java:S6205…"Remove this redundant block.(ÁŸò
+3
+java:S6205ˆ"Remove this redundant block.(üØô
+=	java:S131""Add a default case to this switch.(™ËÊ–ıÿÿÿÿ
+M
+java:S2696±"6Make the enclosing method "static" or remove this set.(ûÑè™
+M
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(†Ş¸µ
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(âÔ£¬øÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(”ì­è
+ˆ
+java:S1319O"rThe type of "animationTimelines" should be an interface such as "List" rather than the implementation "ArrayList".(Ûú°÷
+l	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ“¦Òÿÿÿÿÿ
+l	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ“¦Òÿÿÿÿÿ
+U
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ÿ”Õ‘
+q
+java:S1104,"VMake gameStatus a static final constant or non-public and provide accessors if needed.(äÁĞ¸ûÿÿÿÿ
+m
+java:S1104."WMake sunTimeline a static final constant or non-public and provide accessors if needed.(”ìÙĞ
+o
+java:S11040"YMake spawnZombies1 a static final constant or non-public and provide accessors if needed.(¯Å”‡
+t
+java:S11042"YMake spawnZombies2 a static final constant or non-public and provide accessors if needed.(²²Š©øÿÿÿÿ
+q
+java:S1104B"VMake allZombies a static final constant or non-public and provide accessors if needed.(×Šò¹ùÿÿÿÿ
+p
+java:S1104D"UMake allPlants a static final constant or non-public and provide accessors if needed.(ŞŞ¹Èùÿÿÿÿ
+r
+java:S1104F"WMake zombieList1 a static final constant or non-public and provide accessors if needed.(·»³òùÿÿÿÿ
+r
+java:S1104H"WMake zombieList2 a static final constant or non-public and provide accessors if needed.(™ñ©™üÿÿÿÿ
+i
+java:S1104K"SMake wonGame a static final constant or non-public and provide accessors if needed.(­½–
+q
+java:S1104M"\Make numKilledZombies a static final constant or non-public and provide accessors if needed.(Ü…•`
+t
+java:S1104O"^Make animationTimelines a static final constant or non-public and provide accessors if needed.(Ûú°÷
+g
+java:S1104Q"QMake theme a static final constant or non-public and provide accessors if needed.(šÌÕÎ
+K
+java:S1444,"0Make this "public static gameStatus" field final(äÁĞ¸ûÿÿÿÿ
+G
+java:S1444."1Make this "public static sunTimeline" field final(”ìÙĞ
+I
+java:S14440"3Make this "public static spawnZombies1" field final(¯Å”‡
+N
+java:S14442"3Make this "public static spawnZombies2" field final(²²Š©øÿÿÿÿ
+K
+java:S1444B"0Make this "public static allZombies" field final(×Šò¹ùÿÿÿÿ
+J
+java:S1444D"/Make this "public static allPlants" field final(ŞŞ¹Èùÿÿÿÿ
+L
+java:S1444F"1Make this "public static zombieList1" field final(·»³òùÿÿÿÿ
+L
+java:S1444H"1Make this "public static zombieList2" field final(™ñ©™üÿÿÿÿ
+C
+java:S1444K"-Make this "public static wonGame" field final(­½–
+K
+java:S1444M"6Make this "public static numKilledZombies" field final(Ü…•`
+N
+java:S1444O"8Make this "public static animationTimelines" field final(Ûú°÷
+A
+java:S1444Q"+Make this "public static theme" field final(šÌÕÎ
+L
+java:S1191ñ"5Use classes from the Java API instead of Sun classes.(ìø‡ˆ
